@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="reminder_minutes_labels">
+    <item msgid="9134196715565887256">"1 مىنۇت"</item>
+    <item msgid="7350720278790900276">"5 مىنۇت"</item>
+    <item msgid="559329025736829220">"10 مىنۇت"</item>
+    <item msgid="4523534383318084162">"15 مىنۇت"</item>
+    <item msgid="7153990736543668084">"20 مىنۇت"</item>
+    <item msgid="2030352540011653596">"25 مىنۇت"</item>
+    <item msgid="7307245847296317340">"30 مىنۇت"</item>
+    <item msgid="5174730509775969611">"45 مىنۇت"</item>
+    <item msgid="1920425054049263702">"1 سائەت"</item>
+    <item msgid="6972139375792068825">"2 سائەت"</item>
+    <item msgid="5643568168685093982">"3 سائەت"</item>
+    <item msgid="2179302053572039553">"12 سائەت"</item>
+    <item msgid="314399712609472931">"24 سائەت"</item>
+    <item msgid="6908283876728494719">"2 كۈن"</item>
+    <item msgid="3390146235648970198">"1 ھەپتە"</item>
+  </string-array>
+  <string-array name="timezone_labels">
+    <item msgid="6833649526258274889">"مارشال ئاراللىرى"</item>
+    <item msgid="7176569939440505575">"مىدۋېي ئارىلى"</item>
+    <item msgid="5000628410717488070">"ھاۋاي"</item>
+    <item msgid="3809977082338992040">"ئالياسكا"</item>
+    <item msgid="1206600898319778734">"تىنچ ئوكيان ۋاقتى"</item>
+    <item msgid="4251553449779733536">"تىۋانا"</item>
+    <item msgid="4796372144693551811">"ئارىزونا"</item>
+    <item msgid="4589419122570218444">"چىۋاۋا"</item>
+    <item msgid="1653398220457872326">"تاغ ۋاقتى"</item>
+    <item msgid="229005026661478023">"ئوتتۇرا ئامېرىكا"</item>
+    <item msgid="1545268116831476742">"ئوتتۇرا رايون ۋاقتى"</item>
+    <item msgid="9135129204936732090">"مېكسىكا شەھىرى"</item>
+    <item msgid="3703110560723049255">"ساسكاچېۋان"</item>
+    <item msgid="5458958644945369505">"بوگۇتا"</item>
+    <item msgid="355450740949670294">"شەرقىي رايون ۋاقتى"</item>
+    <item msgid="5786717434693228701">"ۋېنېزۇئېلا"</item>
+    <item msgid="165048018515834952">"ئاتلانتىك ئوكيان ۋاقتى"</item>
+    <item msgid="5398045998666341917">"مانائۇس"</item>
+    <item msgid="8167627904199889197">"سانتىياگو"</item>
+    <item msgid="2793058279461039833">"نېۋفۇندلاند"</item>
+    <item msgid="5247265991408608312">"بىرازىلىيە"</item>
+    <item msgid="7862856378699038344">"بۇئېنۇس-ئايرېس"</item>
+    <item msgid="7307349572838946177">"گىرېنلاند"</item>
+    <item msgid="2287491943472924232">"مونتېۋىدېئو"</item>
+    <item msgid="6337125611768317903">"ئوتتۇرا ئاتلانتىك ئوكيان"</item>
+    <item msgid="1083966762112959704">"ئازور"</item>
+    <item msgid="3208435599095023369">"يېشىل تۇمشۇق ئاراللىرى"</item>
+    <item msgid="8380333624463354109">"كازابلانكا"</item>
+    <item msgid="8737442113188999866">"لوندون، دۇبلىن"</item>
+    <item msgid="72424340270348400">"ئامىستېردام، بېرلىن"</item>
+    <item msgid="3665952257850630547">"بېلگراد"</item>
+    <item msgid="3284290759549286849">"بىريۇسسېل"</item>
+    <item msgid="3112943938015033049">"سارايېۋو"</item>
+    <item msgid="2184425710639965762">"پارىژ"</item>
+    <item msgid="5997630882187580225">"ۋىندخوك"</item>
+    <item msgid="3828800493609994208">"غەربىي ئافرىقا ۋاقتى"</item>
+    <item msgid="7527935722014187591">"ئاممان، ئىيوردانىيە"</item>
+    <item msgid="672509109295227133">"ئافېنا، ئىستانبۇل"</item>
+    <item msgid="1835470340349221646">"بېيرۇت، لىۋان"</item>
+    <item msgid="9006223109403693650">"قاھىرە"</item>
+    <item msgid="2877875673636361825">"خېلسىنكى"</item>
+    <item msgid="4528124308590807049">"قۇددۇس(يېرۇسالېم)"</item>
+    <item msgid="7823856457885290195">"مىنسك"</item>
+    <item msgid="8650995074282357197">"خارارې"</item>
+    <item msgid="209523815326871285">"باغداد"</item>
+    <item msgid="8077211460729251609">"موسكۋا"</item>
+    <item msgid="6103383184232804522">"كۈۋەيت"</item>
+    <item msgid="8581935265080466099">"نايروبى"</item>
+    <item msgid="1531618843539764728">"تېھران"</item>
+    <item msgid="141548505188106312">"باكۇ"</item>
+    <item msgid="5974315340250149692">"تىبىلىس"</item>
+    <item msgid="3344801680659888795">"يېرېۋان"</item>
+    <item msgid="2537944335416132075">"دۇبەي"</item>
+    <item msgid="5630432498109110949">"كابۇل"</item>
+    <item msgid="2274762525650993846">"ئىسلامئاباد، كاراچى"</item>
+    <item msgid="272153171103339242">"ئورال"</item>
+    <item msgid="4757644551253886090">"يېكاتېرىنبۇرگ"</item>
+    <item msgid="3036512479614493957">"كالكۇتتا"</item>
+    <item msgid="4190271241277312277">"سىرىلانكا"</item>
+    <item msgid="4489139826358657866">"كاتماندۇ"</item>
+    <item msgid="1195461607876034232">"ئاستانا"</item>
+    <item msgid="8777509327730950228">"رانگون"</item>
+    <item msgid="3838899720161825998">"كىراسنويارسك"</item>
+    <item msgid="6495532062164690437">"باڭكوك"</item>
+    <item msgid="4910549870048384487">"بېيجىڭ"</item>
+    <item msgid="7174954011332328153">"شياڭگاڭ"</item>
+    <item msgid="415034182139280334">"ئىركۇتسك"</item>
+    <item msgid="3407263784503834649">"كۇئالالۇمپۇر"</item>
+    <item msgid="6547945295249807755">"پېرت"</item>
+    <item msgid="4571776847411430193">"تەيبېي"</item>
+    <item msgid="3043691515163887690">"سېئۇل"</item>
+    <item msgid="6369124969606372122">"توكيو، ئوساكا"</item>
+    <item msgid="8317842783685169193">"ياكۇتسك"</item>
+    <item msgid="6993206457323990990">"ئادېلايدې"</item>
+    <item msgid="2431970257749452312">"دارۋىن"</item>
+    <item msgid="2709489188606506801">"بىرىسبان"</item>
+    <item msgid="6832511138206913044">"خوبارت"</item>
+    <item msgid="6933429790996727761">"سىدنېي، كانبېررا"</item>
+    <item msgid="4546625974877459074">"ۋىلادىۋوستوك"</item>
+    <item msgid="7421491250467489614">"گۇئام"</item>
+    <item msgid="3450367738093440984">"ماگادان"</item>
+    <item msgid="5046540868552082971">"ئاۋكلاند"</item>
+    <item msgid="481903191189494072">"فىجى"</item>
+    <item msgid="1926932394586102998">"تونگا"</item>
+  </string-array>
+  <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"يوق"</item>
+    <item msgid="3377199512833209480">"1 مىنۇت"</item>
+    <item msgid="5023205715881387516">"5 مىنۇت"</item>
+    <item msgid="7720870540593319107">"10 مىنۇت"</item>
+    <item msgid="1653841700859180907">"15 مىنۇت"</item>
+    <item msgid="3741629746313107482">"20 مىنۇت"</item>
+    <item msgid="5357458446224446398">"25 مىنۇت"</item>
+    <item msgid="403143749684280703">"30 مىنۇت"</item>
+    <item msgid="5611574008997362948">"45 مىنۇت"</item>
+    <item msgid="30462793717552">"1 سائەت"</item>
+    <item msgid="119808229352802480">"2 سائەت"</item>
+    <item msgid="7456742278252094745">"3 سائەت"</item>
+    <item msgid="5263928189935026559">"12 سائەت"</item>
+    <item msgid="6451763179435252852">"24 سائەت"</item>
+    <item msgid="966666856467721784">"2 كۈن"</item>
+    <item msgid="5840973497558794742">"1 ھەپتە"</item>
+  </string-array>
+  <string-array name="preferences_alert_type_labels">
+    <item msgid="2724242028978664229">"ئاگاھلاندۇرۇش"</item>
+    <item msgid="8723674378160518790">"ھالەت بالداق ئۇقتۇرۇش"</item>
+    <item msgid="8433736231022186661">"تاقا"</item>
+  </string-array>
+  <string-array name="availability">
+    <item msgid="454869065893453189">"ئالدىراش"</item>
+    <item msgid="6228387173725732140">"ئىشلىتىلىشچان"</item>
+  </string-array>
+  <string-array name="visibility">
+    <item msgid="3035788428581513163">"كۆڭۈلدىكى"</item>
+    <item msgid="5200216103966973369">"خۇسۇسىي"</item>
+    <item msgid="9182342638433672664">"ئاممىۋى"</item>
+  </string-array>
+  <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"بىرىنچى"</item>
+    <item msgid="5631923029483854900">"ئىككىنچى"</item>
+    <item msgid="148935502975250973">"ئۈچىنچى"</item>
+    <item msgid="5124200797326669172">"تۆتىنچى"</item>
+    <item msgid="7564374178324652137">"ئاخىرقى"</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item msgid="3654955385120106241">"(ئىنكاس يوق)"</item>
+    <item msgid="3724434080904437698">"ھەئە"</item>
+    <item msgid="8854145743148992583">«بەلكىم»</item>
+    <item msgid="6174292185978948873">"ياق"</item>
+  </string-array>
+  <string-array name="response_labels2">
+    <item msgid="5967437218994333578">"ھەئە"</item>
+    <item msgid="1254269034445160199">«بەلكىم»</item>
+    <item msgid="1099407454885268744">"ياق"</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"مۇشۇ پائالىيەتلا"</item>
+    <item msgid="8626755531271570950">"بۇ ۋە كەلگۈسىدىكى پائالىيەت"</item>
+    <item msgid="7833229563617435430">"ھەممە پائالىيەت"</item>
+  </string-array>
+  <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"بۇ ۋە كەلگۈسىدىكى پائالىيەت"</item>
+    <item msgid="6315440193748139854">"ھەممە پائالىيەت"</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item msgid="2012815396992847028">"پەقەت مۇشۇ پائالىيەتلا"</item>
+    <item msgid="140670561403965380">"ھەممە مۇھىم پائالىيەتلەر"</item>
+  </string-array>
+</resources>
